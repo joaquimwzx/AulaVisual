@@ -11,6 +11,7 @@ public class FrmEscola extends javax.swing.JFrame {
 
     /**
      * Creates new form FrmEscola
+    ```java 
      */
     public FrmEscola() {
         initComponents();
@@ -201,3 +202,4 @@ public class FrmEscola extends javax.swing.JFrame {
     private javax.swing.JTextField txtNota2;
     // End of variables declaration                   
 }
+```
